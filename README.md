@@ -10,3 +10,5 @@ A simple dice game built with HTML, CSS, and Javascript.
 
 
 
+[https://patrickjayo.github.io/pigGame/](https://patrickjayo.github.io/pigGame/)
+![](./images/pigGame.png)
